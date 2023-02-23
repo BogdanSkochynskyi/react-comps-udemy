@@ -5,16 +5,19 @@ function App() {
 
   const items = [
     {
-      label:'ba fhadjkf afakjhf ',
-      content: 'dkjalj alcjdalkcjaldkjc lakjc;ak a; dvj;a vjdla'
+      id: 1,
+      label:'Section 1',
+      content: 'Text for section 1.'
     },
     {
-      label:'ba fhadjkf ',
-      content: 'dkjalj alcjdalkcjaldkjc lakjc;ak a; dvj;a vjdla'
+      id: 2,
+      label:'Section 2',
+      content: 'Text for section 2. Can be different'
     },
     {
-      label:' afakjhf ',
-      content: 'dkjalj alcjdalkcjaldkjc lakjc;ak a; dvj;a vjdla'
+      id: 3,
+      label:'Section 3',
+      content: 'Freeeeeessssstaila raka maka fon!'
     }
   ];
 
