@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <div>
-        <Button primary rounded><GoBell/>Button</Button>
+        <Button primary rounded className="mb-5" onClick={() => {console.log('Click!!!')}}><GoBell/>Button</Button>
       </div>
       <div>
         <Button secondary outline><GoDatabase/>Button</Button>
